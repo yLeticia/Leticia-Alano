@@ -1,2 +1,2 @@
-# Projeto-de-PIBIC
+# Leticia Alano
 Informações sobre o projeto
