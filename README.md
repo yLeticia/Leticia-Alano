@@ -1,11 +1,14 @@
-### Olá eu sou Leticia Alano
+# 💡Leticia Alano
 
--📍Sou de Manaus, Brasil.
+## About me:
 
--📚Hoje sou bolsista de PIBIC pelo IFAM-CMDI.
+<ul>
+    <li> 📍 I'm from Manaus, Brazil.</li>
+    <li> 📚 Hoje sou bolsista de PIBIC pelo IFAM-CMDI.</li>
+    <li> ⚙️Estudando mecatrônica.</li>
+</ul>
 
--⚙️Estudando mecatrônica.
-
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
