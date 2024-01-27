@@ -27,8 +27,7 @@
   <a href="https://instagram.com/leticia_alano_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "leticiaalano123@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticia-alano-de-queiroz-75309b2b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
-  
+![Snake animation](https://github.com/yLeticia/yLeticia/blob/output/github-contribution-grid-snake.svg)
 
  
